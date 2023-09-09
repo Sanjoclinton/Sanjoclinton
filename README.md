@@ -1,4 +1,3 @@
-### Software Engineer and Full Stack Developer
 👋 Hello, I'm Oluwasanjo Elisha Adeniyi.
 
 🚀 I'm deeply passionate about Software Engineering and Full Stack Development.
