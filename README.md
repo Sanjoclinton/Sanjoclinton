@@ -8,7 +8,7 @@
 
 📫 Let's connect:
    - LinkedIn: [linkedin.com/in/sanjoclinton](https://www.linkedin.com/in/sanjoclinton)
-   - Email: [oluwasanjoclinton@gmail.com](mailto:oluwasanjoclinton@gmail.com)
+   - Email: [Sanjoclinton@gmail.com](mailto:sanjoclinton@gmail.com)
 
 Let's create amazing software together! 💻🌐👨‍💻
 
