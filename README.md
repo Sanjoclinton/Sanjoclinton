@@ -7,7 +7,6 @@
 💡 I'm enthusiastic about collaborating on web application development, software architecture, and crafting seamless user experiences.
 
 📫 Let's connect:
-   - LinkedIn: [linkedin.com/in/sanjoclinton](https://www.linkedin.com/in/sanjoclinton)
    - Email: [Sanjoclinton@gmail.com](mailto:sanjoclinton@gmail.com)
 
 Let's create amazing software together! 💻🌐👨‍💻
@@ -28,4 +27,3 @@ Here are some ideas to get you started:
 -->
 
 
-##Oluwasanjo
