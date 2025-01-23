@@ -7,7 +7,7 @@
 💡 I'm enthusiastic about collaborating on web application development, software architecture, and crafting seamless user experiences.
 
 📫 Let's connect:
-   - Email: [Sanjoclinton@gmail.com](mailto:elishaa.work@gmail.com)
+   - Email: [Elishaa.work@gmail.com](mailto:elishaa.work@gmail.com)
 
 Let's create amazing software together! 💻🌐👨‍💻
 
